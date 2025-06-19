@@ -1,0 +1,1 @@
+Place your PDF named 'goldenafternoon.pdf' in this folder before uploading to GitHub.
